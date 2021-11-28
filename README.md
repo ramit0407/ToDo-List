@@ -2,11 +2,11 @@
 
 > This platform built with the Reactjs.
 
-![screenshot](photos/Home.png)
-![screenshot](photos/addNew.png)
-![screenshot](photos/Pending.png)
-![screenshot](photos/Completed.png)
-![screenshot](photos/detailTodo.png)
+![screenshot](public/photos/Home.png)
+![screenshot](public/photos/addNew.png)
+![screenshot](public/photos/Pending.png)
+![screenshot](public/photos/Completed.png)
+![screenshot](public/photos/detailTodo.png)
 
 ## Features
 
