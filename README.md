@@ -2,11 +2,11 @@
 
 > This platform built with the Reactjs.
 
-![screenshot](C:\Users\Amit\Downloads\todoR-main\todoR-main\public\photos\Home.png)
-![screenshot](C:\Users\Amit\Downloads\todoR-main\todoR-main\public\photos\addNew.png)
-![screenshot](C:\Users\Amit\Downloads\todoR-main\todoR-main\public\photos\Pending.png)
-![screenshot](C:\Users\Amit\Downloads\todoR-main\todoR-main\public\photos\Completed.png)
-![screenshot](C:\Users\Amit\Downloads\todoR-main\todoR-main\public\photos\detailTodo.png)
+![screenshot](\photos\Home.png)
+![screenshot](\photos\addNew.png)
+![screenshot](\photos\Pending.png)
+![screenshot](\photos\Completed.png)
+![screenshot](\photos\detailTodo.png)
 
 ## Features
 
