@@ -2,7 +2,7 @@
 
 > This platform built with the Reactjs.
 
-![screenshot](\photos\Home.png)
+![screenshot](/photos/Home.png)
 ![screenshot](\photos\addNew.png)
 ![screenshot](\photos\Pending.png)
 ![screenshot](\photos\Completed.png)
